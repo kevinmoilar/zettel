@@ -20,5 +20,7 @@ Notiz: Dazu braucht es ein Verständnis was erwachsensein ist (verbliebene Kindl
 Arnold, Fromm, Selvini (Familientherapie)
 
 SourceRef [202105121731_sol-elemente.md](202105121731_sol-elemente.md)
+
 ContextRef [202105121731_sol-elemente.md](202105121731_sol-elemente.md)
+
 TargetRef
