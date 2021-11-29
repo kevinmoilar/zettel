@@ -18,6 +18,6 @@ Als kleinster gemeinsamer Nenner hat sich folgende Kerndefinition von Vertrauen 
 
 Ein solchermassen definiertes Vertrauen kann sich auf Personen (interpersonales Vertrauen) oder auf Institutionen wie z.B. ganze Unternehmen oder Behörden (institutionelles Vertrauen) beziehen.
 
-SourceRef [vertrauen_definition_20211129094034.md](vertrauen_definition_20211129094034.md)
-Contextref [organisational_development_20211129094232.md.md](organisational_development_20211129094232.md.md)
+SourceRef [osterloh_vertrauen__20211129084309.md](osterloh_vertrauen__20211129084309.md)
+Contextref [organisational_development_20211129094232.md](organisational_development_20211129094232.md)
 TargeRef [*.md](*.md)
