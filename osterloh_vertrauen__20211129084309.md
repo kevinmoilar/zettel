@@ -16,4 +16,4 @@ I came accross Margit Osterloh on watching a replay of the [Arena TV show](https
 From the book: \cite{osterloghweibel2006vertrauen}
 
 SourceRef [*.md](*.md)
-TargeRef [*.md](*.md)
+TargeRef [vertrauen_definition_20211129094034.md](vertrauen_definition_20211129094034.md)
