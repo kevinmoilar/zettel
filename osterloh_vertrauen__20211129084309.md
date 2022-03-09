@@ -13,7 +13,7 @@ Empirical social-psychological research overwhelmingly shows, that fairness—es
 
 I came accross Margit Osterloh on watching a replay of the [Arena TV show](https://www.watson.ch/videos/!33158?utm_medium=social-user&utm_campaign=watson-site-tablet&utm_source=jwplayer&jwsource=cl) upon looking up information via [votez.ch](https://votez.ch) on [Watson](https://www.watson.ch/schweiz/review/628904513-srf-arena-zur-justizinitiative-glich-einem-zirkus)
 
-From the book: \cite{osterloghweibel2006vertrauen}
+From the book: \cite{osterlohweibel2006vertrauen}
 
 SourceRef [*.md](*.md)
 TargeRef [vertrauen_definition_20211129094034.md](vertrauen_definition_20211129094034.md)
