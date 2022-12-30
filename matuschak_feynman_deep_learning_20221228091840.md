@@ -12,7 +12,7 @@ Reading Andy Matuschak's December 27 Patreon letter "Towards impact through inti
 
 >When I've tried these collections, I’ve found that I can parrot back responses to the prompts, but my understanding is quite brittle—for instance, I’d struggle to explain the material to a friend.
 
-made me think of Richard Feynman & The Feynman Learning Technique on "how to learn anything well" I once read on [But What For?](https://www.butwhatfor.com/feynman-technique/)
+made me think of Richard Feynman & The Feynman Learning Technique on "how to learn anything well" I once read on [But What For?](https://www.butwhatfor.com/feynman-technique/). Feynman iterates throught versions of explanations (presentations or whatever) until a child would understand it fully.
 
 SourceRef [*.md](*.md)
 TargeRef [*.md](*.md)
