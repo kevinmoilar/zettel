@@ -12,7 +12,7 @@ In chapter 2 "Élan Vital... and how to fake it" Dohoney writes about how Feldma
 
 The issue of humanity, the arts, the loss of freedom and "commercialisation" of people through capitalism in the industrial and post-industrial world.
 
-Books: [@book{feldmandohoney], [@book{bergson1913freewill}], [@book{oharacollected}]
+Books: [@book{feldmandohoney], [@book{bergson1913freewill}], [@book{oharacollected}], [@book{han2014psychopolitik}], [@book{evaillouz2004kapitalismus}]
 
 SourceRef [*.md](*.md)
 TargeRef [*.md](*.md)
